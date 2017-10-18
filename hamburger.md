@@ -1,4 +1,4 @@
-# Hamburger
+# Hamburger (remotely updated !)
 
 ## Ingredients
 
